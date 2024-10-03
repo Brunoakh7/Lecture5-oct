@@ -1,0 +1,83 @@
+header {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(
+      to left,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("../images/background-image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 20px 93px 0px 93px;
+}
+
+.nav {
+  margin-left: 167px;
+  display: inline-block;
+}
+
+ul {
+  display: inline-block;
+}
+
+.list-item {
+  margin-right: 50px;
+  display: inline-block;
+}
+
+.list-item a {
+  color: #fff;
+}
+
+.head-div {
+  display: inline-block;
+  margin-left: 141px;
+  color: #fff;
+}
+
+.head-div a {
+  color: #fff;
+  font-size: 14px;
+}
+
+.sign-in {
+  display: inline-block;
+  margin-right: 33px;
+  font-size: 14px;
+}
+
+.sign-up {
+  border-radius: 18px;
+  font-size: 14px;
+  padding: 16px 25px 16px 26px;
+  background: linear-gradient(90deg, #cd1a40 -11%, #ff803c 109.5%);
+}
+
+.head-h2 {
+  font-size: 46px;
+  color: #fff;
+  margin: 142px 0px 16px;
+}
+
+.head-h1 {
+  color: #fff;
+  font-size: 86px;
+  margin-bottom: 16px;
+}
+
+.head-p {
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #fff;
+  width: 580px;
+  height: 71px;
+  top: 409px;
+  left: 93px;
+  gap: 0px;
+  opacity: 0px;
+}
