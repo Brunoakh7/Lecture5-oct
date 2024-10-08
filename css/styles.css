@@ -81,3 +81,28 @@ ul {
   gap: 0px;
   opacity: 0px;
 }
+
+.info {
+  width: 580px;
+  height: 96px;
+  border-radius: 28px;
+  backdrop-filter: blur(10px);
+  margin: 48px 0px 144px 0px;
+}
+
+.info-inside {
+  padding: 15px 21px 16px 22px;
+}
+
+.info-inside {
+  margin: auto;
+  padding: 36px 16px 36px 22px;
+  width: 537px;
+  height: 65px;
+}
+
+.location {
+  padding: 23px 78px 2px 16px;
+}
+
+/* header */
